@@ -1,0 +1,7 @@
+
+# notification :growl
+
+guard "gradle-android-test" do
+  watch(%r{src/main/java/(.+)\.java$})
+  watch(%r{src/test/java/(.+)\.java$})
+end
