@@ -16,7 +16,7 @@ Guard::GradleAndroidTest automatically run tests of Robolectric in Android studi
 Add Guardfile to Android project root directory
 
     $ cd <project root>
-    $ guard init guard init gradle-android-test
+    $ guard init gradle-android-test
 
 Watch files
 
