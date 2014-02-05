@@ -1,3 +1,7 @@
+# DEPRECATED
+
+[JakeWharton / gradle-android-test-plugin](https://github.com/JakeWharton/gradle-android-test-plugin) is DEPRECATED.
+
 # Guard::GradleAndroidTest
 
 Guard::GradleAndroidTest automatically run tests of Robolectric in Android studio
